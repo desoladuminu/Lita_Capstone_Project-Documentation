@@ -1,17 +1,23 @@
-# Lita_Capstone_Project-Documentation
+# lita_Capstone_Documentation
 
 # Sales and Customer Analysis for Retail Store
 
+# Project overview/projectoverview
+
+
+
+
+
 # Project Overview
 
-This Capstone project provides an analysis of sales performance and Customer behaviour for a retail stores subscription service. The goals are to uncover sales trends, identity top performing produtcs, explore customer segementation, and analyze subscription trends and cancellations. insights from this analysis guide data-driven decisions to improve sales strategies, customer rentention, and targeted marketing.
+This Capstone project provides an analysis of sales performance and Customer behaviour for a retail store's subscription service. The goals are to uncover sales trends, identity top-performing produtcs, explore customer segementation, analyze subscription trends, and cancellations. insights from this analysis guides data-driven decisions to improve sales strategies, customer rentention, and targeted marketing.
 
 # Objectives
 
-1. Sales Analysis: Identify top selling produtcs, revenue by region, and monthly sales trends.
+1. Sales Analysis: Identify top-selling produtcs, revenue by region, and monthly sales trends.
 - Determine the percentage contribution of each region and the top customers by revenue.
 
-2. Customer Segementation: Segment customers by subscription type , region, and revenue contribution.
+2. Customer Segementation: Segment customers by subscription type, region, and revenue contribution.
 -  Analyze Subscription duration, idfentify early cancellations. and examine active versus canceled subscriptions.
 
   #  Data Sources
@@ -19,7 +25,7 @@ This Capstone project provides an analysis of sales performance and Customer beh
   This projects uses two datasets:
 
   1. Sales Data: Contains details on sales transactions, including order dates, produtcs, quantities, unit prices, and regions.
-  2. Customer Data: Includes Customer dfemographics and subscription details, such as start and end dates, subscription type, and cancellation status.
+  2. Customer Data: Includes Customer demographics and subscription details, such as start and end dates, subscription type, and cancellation status.
 
   # Tools Used
 
@@ -29,28 +35,28 @@ This Capstone project provides an analysis of sales performance and Customer beh
 
   # Key Analysis and findings
 
-  # Sales Analysis
+  # Sales Data Analysis
 
-  - Total sales by products category:Identified the top-selling products to optimize inventory and marketing efforts.
-  - Regional Performance:Analyzed sales distribution across regions, highlighting high-performing areas.
-  - Monthly Sales Trends: Visualized sa;les trends to determine peak and low performing months.
+  - Total sales by products category: Identified the top-selling products to optimize inventory and marketing efforts.
+  - Regional Performance: Analyzed sales distribution across regions, highlighting high-performing areas.
+  - Monthly Sales Trends: Visualized sales trends to determine peak and low performing months.
   - Top Customers by Purchase Amount: Identified key customers contributing most to revenue.
 
   # Customer Segementation and Subscription Analysis
 
-  - Subscription Type Popularity:Analyed the distribution of customers across different subscription types.
-  - Cancellations by Region and Type:Explored where and why customers cancel subscriptions.
-  - Subscription Trends:Examined trends in new subscription and tracked average subscription durations to guage customer retention.
+  - Subscription Type Popularity: Analyed the distribution of customers across different subscription types.
+  - Cancellations by Region and Type: Explored where and why customers canceled subscriptions.
+  - Subscription Trends: Examined trends in new subscription and tracked average subscription durations to guage customer retention.
 
   # Power BI Dashboard
 
-  The final deliverable is a power BI dashboard that combines insights from sales and customer data. This dashboard is divided into sections.
+  The final deliverable is a power BI dashboard that combines insights from sales and customer data. This dashboard is divided into four sections.
 
-   1. Sales Overview:Provides total revenue, to[p produts, and sales by region.
-   2. Customer Segementation:Visualizes customer distribution by subscription type and region
+   1. Sales Overview:Provides total revenue, top produts, and sales by region.
+   2. Customer Segementation: Visualizes customer distribution by subscription type and region.
    3. Subscription Trends:Tracks monthly subscriptions,cancellations and trends in customer behaviour.
-   4. Interactive Slicers: Allows flitering by subscription type, region, and date range for an in depth, user-driven analysis.
+   4. Interactive Slicers: Allows flitering by subscription type, region, and date range for an indepth, user-driven analysis.
 
    # Conclusion
 
-  This Capstone project provided valuable insights into sales performance, customer segementation, and subscription trends. By identifying key customer segements  and analyzing cancellation patterns, the project offers actionable recommendations to im prove customer retention and optimize sales strategies.
+  This Capstone project provided valuable insights into sales performance, customer segementation, and subscription trends. By identifying key customer segements  and analyzing cancellation patterns, the project offers actionable recommendations to improve customer retention and optimize sales strategies.
