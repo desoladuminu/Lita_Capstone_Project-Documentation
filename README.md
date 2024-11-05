@@ -1,6 +1,9 @@
 # LITA_CAPSTONE_DOCUMENTATION
 
 # Project Title: Sales and Customer Analysis for Retail Store
+  [Project Overview](#prpject-overview)
+  
+  
 
 ### Project Overview
 
@@ -54,27 +57,23 @@ This Capstone project provides an analysis of sales performance and Customer beh
 
    ### Data Visualization
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA%20Capstone%20Dataset%201%20(customer%20data).csv
+   
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA%20Capstone%20Dataset%201%20(sales%20data).csv
+   
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA%20Capstone%20Dataset%201%20(sheet%201).csv
-   https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/Salesdatapowerbi.pbix 
+   
+   https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/Salesdatapowerbi.pbix
+   
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/CustomerdataPowerBi.pbiX
+   
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA_CAPSTONE_SQL%20PROJECT.sql
+   
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA%20SQL%20PROJECT%202.ssmssln
    
-   
-   
-
-
-   
+   https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/IMG_3352.JPG
 
    
    
-   
-   
-
-    
-   
-
    ### Conclusion
 
   This Capstone project provided valuable insights into sales performance, customer segementation, and subscription trends. By identifying key customer segements  and analyzing cancellation patterns, the project offers actionable recommendations to improve customer retention and optimize sales strategies.
