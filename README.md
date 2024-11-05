@@ -2,12 +2,6 @@
 
 # Project Title: Sales and Customer Analysis for Retail Store
 
-# Project overview/projectoverview
-
-
-
-
-
 ### Project Overview
 
 This Capstone project provides an analysis of sales performance and Customer behaviour for a retail store's subscription service. The goals are to uncover sales trends, identity top-performing produtcs, explore customer segementation, analyze subscription trends, and cancellations. insights from this analysis guides data-driven decisions to improve sales strategies, customer rentention, and targeted marketing.
