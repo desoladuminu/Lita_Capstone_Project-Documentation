@@ -56,6 +56,10 @@ This Capstone project provides an analysis of sales performance and Customer beh
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA%20Capstone%20Dataset%201%20(customer%20data).csv
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA%20Capstone%20Dataset%201%20(sales%20data).csv
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA%20Capstone%20Dataset%201%20(sheet%201).csv
+   https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/Salesdatapowerbi.pbix
+
+
+   
 
    
    
