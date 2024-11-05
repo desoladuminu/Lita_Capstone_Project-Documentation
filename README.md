@@ -1,9 +1,20 @@
 # LITA_CAPSTONE_DOCUMENTATION
 
 # Project Title: Sales and Customer Analysis for Retail Store
+
   [Project Overview](#prpject-overview)
   
+  [Tools Used](#tools-used)
   
+  [Sales Data Analysis](#salesdata-analysis)
+  
+  [Power BI Dashboard](#powerbi-dashboard)
+  
+  [Data Visualization](#data-visualization)
+  
+  [Conclusion](conclusion)
+  
+    
 
 ### Project Overview
 
