@@ -81,7 +81,10 @@ This Capstone project provides an analysis of sales performance and Customer beh
    
    https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA%20SQL%20PROJECT%202.ssmssln
    
-   https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/IMG_3352.JPG
+   https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/IMG_3352.JPG 
+   
+   https://github.com/desoladuminu/Lita_Capstone_Project-Documentation/blob/main/LITA%20Capstone%20Dataset%201%20(sheet%201).xlsx
+   
 
    
    
