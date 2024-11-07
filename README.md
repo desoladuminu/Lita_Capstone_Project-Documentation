@@ -1,6 +1,6 @@
 # LITA_CAPSTONE_DOCUMENTATION
 
-# Project Title: Sales and Customer Analysis for Retail Store
+# Project Title: Sales and Customer Analysis For Retail Store
 
   [Project Overview](#prpject-overview)
   
